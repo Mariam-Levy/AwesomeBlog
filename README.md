@@ -5,7 +5,7 @@ Un blog increible para el [curso de Git y GitHub]() de [Platzi]()
 > El curso de Git y GitHub de Platzi es lo que hacia falta para triplicar mi salario y lanzarme al mundo de la programacion.
 > - Mariam
 
-#En este curso vemos de todo:
+# En este curso vemos de todo:
 * Todos los comandos de Git
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas practicas
