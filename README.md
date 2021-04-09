@@ -11,6 +11,7 @@ Un blog increible para el [curso de Git y GitHub]() de [Platzi]()
 * El verdadero amor por las buenas practicas
 * Trucos de Git y GitHub
 * Y muchas cosas mas
+* Creado por Mariam L
 
 Y como un amable recordatorio:
 **"La mente es como un paracaídas: sólo funciona si se abre."** 
