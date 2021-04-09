@@ -12,6 +12,8 @@ Un blog increible para el [curso de Git y GitHub]() de [Platzi]()
 * Trucos de Git y GitHub
 * Y muchas cosas mas
 * Creado por Mariam L
+* Incluye ejemplos en Windows, Linux y Mac.
+* Disponibles para todas las edades.
 
 Y como un amable recordatorio:
 **"La mente es como un paracaídas: sólo funciona si se abre."** 
